@@ -1,3 +1,5 @@
+//Escreva um programa que calcule o teorema de Pitágoras, representado pela expressão: c =a2+b2 
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
