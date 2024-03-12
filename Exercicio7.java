@@ -1,3 +1,4 @@
+//Incremente o programa da questão 6, para informar o valor do metro quadrado da cerâmica escolhido e o valor total a ser pago.
 
 import java.util.Scanner;
 
