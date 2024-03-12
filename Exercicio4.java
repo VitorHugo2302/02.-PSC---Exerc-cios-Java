@@ -1,3 +1,4 @@
+//Crie um programa para calcular a regra de três.
 
 import java.util.Scanner;
 
